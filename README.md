@@ -1,1 +1,1 @@
-# fruit-tiictactoe
+# fruit-tictactoe
